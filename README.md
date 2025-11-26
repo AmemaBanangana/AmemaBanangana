@@ -23,8 +23,8 @@ Je suis un **développeur passionné** 💻, toujours en train d’apprendre et 
 ---
 
 ### Contact
-- 📫 GitHub : [AmemaBanangana](https://github.com/josephAMEMA)
-- 📧 Email : josephamema27@email.com (à remplacer par ton email si tu veux le montrer)
+- 📫 GitHub : [@josephAMEMA](https://github.com/AmemaBanangana)
+- 📧 Email : josephamema27@email.com
 
 ---
 
